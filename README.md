@@ -72,7 +72,7 @@
     alt="GitHub Stats" 
     height="200px" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=VitorDOF&show_icons=true&theme=vision-friendly-dark&include_all_commits=true" 
+    src="https://github-readme-stats.vercel.app/api?username=VitorDOF&show_icons=true&theme=vision-friendly-dark" 
 />
 <img 
       align="left" 
