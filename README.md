@@ -27,8 +27,8 @@ Olá! Me chamo Vitor, tenho 21 anos e sou estudante de Engenharia de Software. E
 
 <div align="center">
  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VitorDOF&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VitorDOF&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://readme-stats-github.pages.dev/api?username=VitorDOF&theme=dark"  />
+  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=VitorDOF&theme=dark"  />
 </div>
 
 ###
