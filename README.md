@@ -1,10 +1,10 @@
 # Vitor Oliveira
 
-👋 Olá! Me chamo Vitor, tenho 21 anos e sou estudante de Engenharia de Software. Estou em busca de um estágio na área de desenvolvimento de software para colocar em prática meus conhecimentos e seguir evoluindo como dev. Tenho experiência com .NET, GIT, C#, HTML, CSS, JavaScript, Java e SQL. Gosto de aprender na prática, enfrentar desafios de lógica e fazer parte de projetos que realmente façam a diferença.
+Olá! Me chamo Vitor, tenho 21 anos e sou estudante de Engenharia de Software. Estou em busca de um estágio na área de desenvolvimento de software para colocar em prática meus conhecimentos e seguir evoluindo como dev. Tenho experiência com .NET, GIT, C#, HTML, CSS, JavaScript, Java e SQL. Gosto de aprender na prática, enfrentar desafios de lógica e fazer parte de projetos que realmente façam a diferença.
 
 ---
 
-### 🚀 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
@@ -23,7 +23,7 @@
 
 ---
 
-### 📊 Estatísticas
+### Estatísticas
 
 <div align="center">
  <div align="center">
